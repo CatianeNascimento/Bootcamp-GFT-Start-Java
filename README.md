@@ -9,7 +9,7 @@
 
 ### **Links** **Úteis**:
 
-[Dio](https://web.dio.me/home)
+[DIO](https://web.dio.me/home)
 <br>
 [GFT START](https://www.gft.com/br/pt)
 
