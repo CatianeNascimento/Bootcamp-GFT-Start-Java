@@ -1,6 +1,6 @@
 # Bootcamp GFT Start Java 
 
- O botcamp GFT Start Java é um curso oferecido gratuitamente para mulheres inciantes em programação e é oferecido online pela plataforma de ensino Digital Innovation One em parceria com a GFT Start. 
+ O botcamp GFT Start Java é um curso online e gratuito para mulheres inciantes em programação, é oferecido pela plataforma de ensino Digital Innovation One em parceria com a GFT Start. 
 
 <br>
 
@@ -9,7 +9,7 @@
 
 ### **Links** **Úteis**:
 
-[Dio](https://web.dio.me/home)
+[DIO](https://web.dio.me/home)
 <br>
 [GFT START](https://www.gft.com/br/pt)
 
