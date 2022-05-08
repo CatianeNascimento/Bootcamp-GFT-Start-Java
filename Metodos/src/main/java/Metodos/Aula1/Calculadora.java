@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Metodos;
+package Metodos.Aula1;
 
 /** Exercício da aula 1 de Métodos: Calcule as 4 operações básicas: soma, subtração,
  * multiplicação e divisão. Sempre 2 valores tem que ser passados.
